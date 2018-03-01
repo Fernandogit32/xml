@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<locadora>
+	<filmes>
+		<filme>
+			<titulo>Vingadores</titulo>
+			<genero>Ação/Aventura</genero>
+			<ano_lancamento>2012</ano_lancamento>
+		
+		</filme>
+		
+		<filme>
+			<titulo>Star Wars: O Despertar da Força</titulo>
+			<genero>Aventura/Fantasia</genero>
+			<ano_lancamento>2015</ano_lancamento>
+		
+		</filme>
+		
+		<filme>
+			<titulo>Velozes e Furiosos 7</titulo>
+			<genero>Ação</genero>
+			<ano_lancamento>2015</ano_lancamento>
+		
+		</filme>
+		
+		<filme>
+			<titulo>Invocação do Mal</titulo>
+			<genero>Terror</genero>
+			<ano_lancamento>2009</ano_lancamento>
+		
+		</filme>
+		
+		<filme>
+			<titulo>A Era do Gelo</titulo>
+			<genero>Animação</genero>
+			<ano_lancamento>2002</ano_lancamento>
+		
+		</filme>
+		
+		<filme>
+			<titulo>As Branquelas</titulo>
+			<genero>Comédia</genero>
+			<ano_lancamento>2004</ano_lancamento>
+		
+		</filme>
+	</filmes>
+
+
+</locadora>

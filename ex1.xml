@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<estoque>
+
+<produtos>
+
+
+	<produto>
+		<nome>Detergente</nome>
+		<codigo>0987</codigo>
+		<marca>Ype</marca>
+	</produto>
+	
+	<produto>
+		<nome>Macarao</nome>
+		<codigo>1988</codigo>
+		<marca>Galo</marca>
+	</produto>
+	
+	<produto>
+		<nome>Lapis</nome>
+		<codigo>5557</codigo>
+		<marca>Bic</marca>
+	</produto>
+	
+	<produto>
+		<nome>chocolate</nome>
+		<codigo>1254</codigo>
+		<marca>Nestle</marca>
+	</produto>
+	
+	<produto>
+		<nome>Cerveja</nome>
+		<codigo>8974</codigo>
+		<marca>Skol</marca>
+	</produto>
+	
+	<produto>
+		<nome>Ventilador</nome>
+		<codigo>7825</codigo>
+		<marca>Arno</marca>
+	</produto>
+	
+</produtos>
+
+
+
+
+
+<fornecedores>
+
+	<fornecedor>
+		<nome>Joao</nome>
+		<cnpj>5654656</cnpj>
+	</fornecedor>
+	
+	<fornecedor>
+		<nome>Carlos</nome>
+		<cnpj>897457</cnpj>
+	</fornecedor>
+	
+	<fornecedor>
+		<nome>Paulo</nome>
+		<cnpj>241778</cnpj>
+	</fornecedor>
+	
+	<fornecedor>
+		<nome>Jose</nome>
+		<cnpj>5854645</cnpj>
+	</fornecedor>
+	
+	<fornecedor>
+		<nome>Igor</nome>
+		<cnpj>567896</cnpj>
+	</fornecedor>
+	
+	<fornecedor>
+		<nome>Evandro</nome>
+		<cnpj>561456</cnpj>
+	</fornecedor>
+
+
+</fornecedores>
+
+
+
+
+
+</estoque>

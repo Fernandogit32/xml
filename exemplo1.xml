@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<escola>
+	<alunos>
+		<aluno>
+			<ra>100230</ra>
+			<nome>Marcelos da Silva</nome>
+		</aluno>
+		
+		<aluno>
+			<ra>100231</ra>
+			<nome>Joana Pereira da Silva</nome>
+		</aluno>
+	</alunos>
+
+	<professores>
+		<professor>
+			<matricula>101</matricula>
+			<nome>Mauricio das  Neves</nome>
+		</professor>
+		
+		<professor>
+			<matricula>102</matricula>
+			<nome>Tiago da Silva</nome>
+		</professor>
+	</professores>
+	
+	<disciplinas>
+		<disciplina>
+			<codigo>234</codigo>
+			<descricao>Matematica</descricao>
+		</disciplina>
+		
+		<disciplina>
+			<codigo>912</codigo>
+			<descricao>Informatica</descricao>
+		</disciplina>
+	</disciplinas>
+
+</escola>
